@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend-test",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waranatcpe/backend-test.git"
+  },
+  "author": "waranatcpe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waranatcpe/backend-test/issues"
+  },
+  "homepage": "https://github.com/waranatcpe/backend-test#readme"
+}
